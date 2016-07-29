@@ -1,0 +1,12 @@
+com\chaoxu\dao\BaseDao.class
+com\chaoxu\pojo\Book.class
+com\chaoxu\pojo\Publisher.class
+com\chaoxu\controller\BookController.class
+com\chaoxu\dao\BookDao.class
+com\chaoxu\util\Strings.class
+com\chaoxu\service\BookService.class
+com\chaoxu\dao\PublisherDao.class
+com\chaoxu\util\Page.class
+com\chaoxu\dao\BookTypeDao.class
+com\chaoxu\pojo\BookType.class
+com\chaoxu\util\SearchParam.class
